@@ -70,9 +70,7 @@ python image_compression_lab.py
 image-compression-lab/
 │
 ├── LAB10_Image_Compression.ipynb    # Main Jupyter notebook
-├── image_compression_lab.py         # Python script version
 ├── README.md                         # This file
-├── requirements.txt                  # Dependencies
 │
 ├── images/                           # Sample images
 │   └── lena.png                      # Test image
