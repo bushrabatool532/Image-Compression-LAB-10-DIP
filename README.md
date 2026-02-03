@@ -75,8 +75,7 @@ image-compression-lab/
 ├── images/                           # Sample images
 │   └── lena.png                      # Test image
 │
-└── results/                          # Output files
-    ├── compression_results.png       # Visual comparison
+└── result/                          # Output file
     └── rate_distortion_curve.png     # RD curve
 ```
 
